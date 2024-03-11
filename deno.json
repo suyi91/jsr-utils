@@ -1,0 +1,6 @@
+{
+    "name": "@seanssyy/utils",
+    "version": "0.0.2",
+    "exports": "./mod.ts"
+  }
+  
